@@ -11,6 +11,6 @@ describe('pruebas demo' ,() => {
        // Observar el comportamiento
            expect(message1).toBe(message2)
        
-       //finxza
+       //finxzas
        })
 })
